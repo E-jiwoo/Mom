@@ -1,8 +1,9 @@
 # AI 기반 상황별 필요 물품 추천 제품
-![417shots_so (1)](https://github.com/user-attachments/assets/5042bfe8-cdf3-4183-ad19-89d3904ca059)
+![어무이2 (2)](https://github.com/user-attachments/assets/50467fba-e05f-4ed8-99da-34aa60410dc8)
 ##  Project Overview
 
 어무이는 AI를 통해 상황에 맞는 물품을 추천해주는 제품입니다.
+
 <br/>
 ## Background
 
